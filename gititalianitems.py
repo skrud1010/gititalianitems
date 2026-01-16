@@ -68,7 +68,8 @@ col1, col2 = st.columns(2)
 # 6. 수출 / 수입 원형 차트 (강조 색상)
 # -------------------------------
 st.subheader("🔟 이탈리아의 10대 교역 품목")
-st.caption("단위: 백만달러 (%)/n자료: KITA(한국 무역협회, 2020년)")
+st.caption("단위: 백만달러 (%)")
+st.caption("자료: KITA(한국 무역협회, 2020년)")
 
 col1, col2 = st.columns(2)
 
